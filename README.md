@@ -2,4 +2,4 @@
 
 https://ryukflutter.github.io
 
-<p>credit goes to kartik vaiya:)</p>
+*credit goes to kartik⚡vaiya:)*
